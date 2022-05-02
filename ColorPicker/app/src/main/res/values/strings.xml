@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ColorPicker</string>
+    <string name="rgb_0_0_0">RGB: 0, 0 , 0</string>
+    <string name="rgb_values">RGB %d %d %d</string>
+</resources>
