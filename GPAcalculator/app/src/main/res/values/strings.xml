@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GPAcalculator</string>
+    <string name="title">GPA Calculator</string>
+
+    <string name="gpa">GPA =</string>
+    <string name="enter_grades">Enter grades:</string>
+
+    <string name="grade_1">Grade 1</string>
+    <string name="grade_2">Grade 2</string>
+    <string name="grade_3">Grade 3</string>
+    <string name="grade_4">Grade 4</string>
+    <string name="grade_5">Grade 5</string>
+    <string name="calculate">Calculate</string>
+    <string name="a">A</string>
+    <string name="must_be_uppercase_a_b_c_d_f">Must be Uppercase (A, B, C, D, F)</string>
+
+    <string name="invalid">Invalid Input</string>
+
+
+
+</resources>
